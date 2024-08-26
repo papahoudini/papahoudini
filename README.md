@@ -1,12 +1,15 @@
-## Hi there 👋
+## Halo Semua 👋
+Perkenalkan nama saya **George Amadeus <br>
 
+🔭 Saat ini Saya berkuliah di **Universitas Widyatama Bandung (https://www.widyatama.ac.id/en/) <br>
+🌱 Saya sedang mempelajari Interfacing System, Cloud Computing, dan Machine Learning <br>
+👯 Jika tertarik berkenalan dengan Saya, ini link LinkedIn Saya (https://www.linkedin.com/in/george-amadeus-putra-hardie-460b1b27b/) <br> <br>
+
+Senang Berkenalan dengan Anda 😄
 <!--
 **papahoudini/papahoudini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
